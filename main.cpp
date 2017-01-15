@@ -6,6 +6,7 @@
 
 /* 
  * File:   main.cpp
+ * Author: quangthai
  *
  * Created on August 3, 2016, 5:16 PM
  */
